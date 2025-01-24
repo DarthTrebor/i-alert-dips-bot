@@ -1,5 +1,5 @@
 const YouTube = require("discord-youtube-api");
-const youtube = new YouTube("AIzaSyAzafGBPca0rEX1gvYUuBnDvjEopbq_g80");
+const youtube = new YouTube("apiKey");
 
 const YTBGetVideo = async(message, args) => {
     try {
