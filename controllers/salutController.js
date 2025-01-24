@@ -1,5 +1,5 @@
 const hello = async(message) => {
-    return message.channel.send('muie coaie');
+    return message.channel.send('test hello world discord');
 }
 
 const one = async(message) => {
